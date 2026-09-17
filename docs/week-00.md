@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94678c00-853d-4098-bf61-e985e5255361" /><img width="923" height="598" alt="image" src="https://github.com/user-attachments/assets/812f6c5a-4113-4dc5-a3f7-f6aa207f515a" /><img width="923" height="598" alt="image" src="https://github.com/user-attachments/assets/86c68db2-2f06-4723-9c37-913bf03c9af9" />
 # Week 0
 
 **Goal this week:** Develop an initial concept for a modular autonomous rover platform and evaluate the hardware, software, and mechanical requirements needed to build a functional prototype within the available project duration.
@@ -35,7 +34,8 @@
   * Autonomous movement
   * Application-specific modules
 * Evaluated the feasibility of completing the rover base and selected modules within the project development period.
- 
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54661693-bd73-4b19-b388-dccaa8869fd1" />
+
 
 
 ## Problems and blockers
@@ -96,4 +96,7 @@
 
 ## Links
 
-- 
+- https://gamma.app/docs/Modular-Autonomous-Rover-System-r9c271r7w8i100q
+
+  <img width="642" height="642" alt="image" src="https://github.com/user-attachments/assets/1a190a96-0a21-4c55-b019-10ec533f2b7c" />
+
