@@ -11,6 +11,12 @@
 - We also 3D printed the CAD-designed parts required for the rover. After printing, we arranged the different components inside the designed structure according to the planned layout.
 - The Arduino Uno, motor driver, battery and other components were positioned inside the 3D-printed structure. This helped us move from a temporary prototype setup towards a more organized and compact rover design.
 - After arranging the components, we checked the available space and the positioning of the wiring to ensure that the components could be properly mounted without interfering with the movement of the rover.
+- <img width="280" height="277" alt="image" src="https://github.com/user-attachments/assets/2c770db1-97b2-4d08-95c6-5f0d466d96ec" />
+
+- <img width="742" height="522" alt="image" src="https://github.com/user-attachments/assets/d4059c5a-9490-4a8b-af99-2129a282fae7" />
+
+- <img width="272" height="450" alt="image" src="https://github.com/user-attachments/assets/2173d0a9-96b6-4db0-a015-314626c48fb8" />
+
 
 ## Problems and blockers
 
@@ -39,5 +45,6 @@
 
 ## Links
 
-- Code:
-- Photos / CAD:
+- Photos :
+  
+<img width="260" height="333" alt="image" src="https://github.com/user-attachments/assets/c23e8c6a-34aa-4eb1-811c-719504485941" />
