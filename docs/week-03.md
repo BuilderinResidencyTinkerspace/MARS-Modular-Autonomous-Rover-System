@@ -1,40 +1,55 @@
-# Week 3
+# Week 3: Giving MARS Wireless Control and Obstacle Detection
 
-**Goal this week:** Continue working on the MARS prototype by integrating the base rover components with the ESP32-S3 and developing the basic wireless control and obstacle avoidance system.
+After testing the individual components in Week 2, we began integrating them into the base rover. This week marked an important transition from testing individual parts to making the rover **function as a connected system**.
 
-## What we did
+## Integrating the Rover
 
-- This week, we started working on the electrical and control side of the rover. We integrated the main components of the base rover with the ESP32-S3, including the motor driver, DC motors, ultrasonic sensor and other required components.
-- We then connected the rover to the integrated Wi-Fi module of the ESP32-S3 and created a local host through which we could remotely control the movement of the robot. We tested the basic movement commands and the robot was able to move according to the commands given through the local host.
-- We also implemented obstacle avoidance using the ultrasonic sensor. When an obstacle was detected in front of the robot, the robot stopped and waited until the obstacle moved away before continuing its movement. We tested the system and the basic wireless control and obstacle detection were working properly.
-- Along with the electrical work, we also started planning the mechanical design of the rover. We made a rough sketch of the CAD design on paper to get an idea of the structure and positioning of the different components before proceeding with the detailed CAD design.
+We connected the **ESP32-S3, motor driver, DC motors, ultrasonic sensor, and other required components** and started working on the rover's control system.
+
+The ESP32-S3's built-in Wi-Fi was then used to create a **local host interface** through which the rover could be controlled wirelessly. We tested basic movement commands, and the rover was able to move according to the commands sent through the interface.
+
+## Adding Obstacle Detection
+
+We also implemented basic **ultrasonic-based obstacle detection**.
+
+When an obstacle was detected in front of the rover, it would stop and wait until the obstacle was removed before continuing. After testing the system, both the wireless control and basic obstacle detection were functioning as expected.
+
+```text
+Wi-Fi Control
+      ↓
+   ESP32-S3
+      ↓
+  Motor Driver
+      ↓
+     Motors
+
+Ultrasonic Sensor
+      ↓
+   ESP32-S3
+      ↓
+Obstacle Detected → Stop
+```
+<img width="287" height="315" alt="image" src="https://github.com/user-attachments/assets/a1d4a005-e2b1-4994-bd00-9947098d4da1" />
+
+
+## Starting the Mechanical Design
+
+Alongside the electronics, we began planning the mechanical structure of the rover. Before moving into detailed CAD modelling, we created **rough paper sketches** to determine the positioning of the motors, wheels, and other components.
+
+However, we faced a mechanical issue: **the wheels were not attaching properly to the motors**. This meant that the motor and wheel mounting arrangement needed further adjustment before the base structure could be finalized.
+
+<img width="290" height="563" alt="image" src="https://github.com/user-attachments/assets/2e58cbd0-bb6a-4542-b4f8-edab8e3abf1a" />
+
+## Decisions and Next Steps
+
+Based on this week's work, we decided to continue using the **ESP32-S3 Wi-Fi** for wireless control and the local host as the control interface. Ultrasonic-based obstacle detection was also retained as part of the base rover.
+
+For the mechanical design, we planned to improve the motor and wheel mounting and then proceed with the detailed CAD design.
+
+The next stage would focus on **improving the mechanical structure while continuing the integration of the rover's electronics and control system**.
 
 <img width="287" height="315" alt="image" src="https://github.com/user-attachments/assets/a1d4a005-e2b1-4994-bd00-9947098d4da1" />
 <img width="290" height="563" alt="image" src="https://github.com/user-attachments/assets/2e58cbd0-bb6a-4542-b4f8-edab8e3abf1a" />
-
-
-
-## Problems and blockers
-
-- The wheels were not attaching properly to the motors.
-- The mechanical structure needed further improvement before the base could be completed.
-- We needed to adjust the mechanical design to ensure that the wheels and motors were properly positioned.
-
-## Decisions
-
-- We decided to use the ESP32-S3 Wi-Fi module for wireless control of the rover.
-- We decided to use a local host as the interface for controlling the robot's movement.
-- We decided to include ultrasonic-based obstacle detection so that the robot would stop when an obstacle was detected and continue only after the obstacle moved away.
-- We decided to make a rough paper sketch before continuing with the detailed CAD design.
-
-## Next week
-
-- We decided to use the ESP32-S3 Wi-Fi module for wireless control of the rover.
-- We decided to use a *local host* as the interface for controlling the robot's movement.
-- We decided to include ultrasonic-based obstacle detection so that the robot would stop when an obstacle was detected and continue only after the obstacle moved away.
-- We decided to make a rough paper sketch before continuing with the detailed CAD design.
-
-## Links
 
 -Photos
 <img width="1032" height="560" alt="image" src="https://github.com/user-attachments/assets/6f9b9daa-b97e-46ba-9005-59d4c4cd03de" />
