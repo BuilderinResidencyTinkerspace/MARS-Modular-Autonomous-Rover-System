@@ -30,6 +30,10 @@ A dimension specified in a CAD model does not always translate into exactly the 
 
 This was particularly relevant to MARS because we planned to use 3D-printed parts for components such as motor mounts and other mechanical structures. Understanding tolerances at this stage would help us avoid problems when assembling parts later.
 
+
+<img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/746dc957-e593-43fa-b10c-0818d53951ca" />
+<img width="867" height="285" alt="image" src="https://github.com/user-attachments/assets/12fec207-55cb-41fb-8195-1314a842c052" />
+
 ## Introduction to PCB Designing
 
 We were also introduced to the basics of **PCB designing**.
@@ -98,9 +102,6 @@ Week 2 was therefore less about making MARS perform a new function and more abou
 
 We had started with individual components, but the next challenge was to turn those components into a single working system.
 
-
-<img width="997" height="502" alt="image" src="https://github.com/user-attachments/assets/746dc957-e593-43fa-b10c-0818d53951ca" />
-<img width="867" height="285" alt="image" src="https://github.com/user-attachments/assets/12fec207-55cb-41fb-8195-1314a842c052" />
 
 
 ## Links
