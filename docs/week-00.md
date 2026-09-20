@@ -155,7 +155,7 @@ The initial architecture was also kept flexible so that hardware choices could b
 
 ---
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd2b6b7c-dfd7-498e-a4db-505b5ea45380" />
+
 
 ## What Made This Challenging
 
