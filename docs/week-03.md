@@ -48,8 +48,7 @@ For the mechanical design, we planned to improve the motor and wheel mounting an
 
 The next stage would focus on **improving the mechanical structure while continuing the integration of the rover's electronics and control system**.
 
-<img width="287" height="315" alt="image" src="https://github.com/user-attachments/assets/a1d4a005-e2b1-4994-bd00-9947098d4da1" />
-<img width="290" height="563" alt="image" src="https://github.com/user-attachments/assets/2e58cbd0-bb6a-4542-b4f8-edab8e3abf1a" />
+
 
 -Photos
 <img width="1032" height="560" alt="image" src="https://github.com/user-attachments/assets/6f9b9daa-b97e-46ba-9005-59d4c4cd03de" />
