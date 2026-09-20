@@ -91,7 +91,6 @@ It was still a very early prototype, but the transition was important. MARS had 
 
 The 30 × 30 cm foam-board base provided the platform for the next stage, while the major electronic and mechanical components had been acquired.
 
-<img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/16314653-095b-4ba3-b096-2e7062a71f17" />
 
 <img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/3b9a8554-cf92-4dcc-9b60-0e179a760614" />
 
