@@ -42,6 +42,7 @@ We used an **Arduino Nano** as the controller and integrated multiple sensors to
 
   <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/eadb93ee-f043-4618-87e7-5fdb2962388d" />
   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9d649021-584d-4daf-85da-54e4e85f1e69" />
+ <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cc0f03f0-b60a-4a37-a716-ce877f076ee8" />
 
 
 
