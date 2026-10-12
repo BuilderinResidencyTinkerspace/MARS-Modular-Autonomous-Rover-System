@@ -100,8 +100,3 @@ At the same time, developing the Arduino Nano-based module required integrating 
 
 This week showed us that the modular architecture could actually be used to extend the rover's functionality without redesigning the entire base system.
 
-## Next Steps
-
-With the first two application-specific modules developed, the next focus would be on **testing their integration with the MARS base rover**, improving their physical mounting, and ensuring that the modules can be attached and operated reliably.
-
-Week 9 was therefore a major milestone for MARS: the project had moved beyond simply building an autonomous rover and had started demonstrating the idea of **one common rover platform supporting multiple specialized applications**.
