@@ -12,6 +12,9 @@ While the battery was connected during this testing, a **short circuit occurred 
 ## Moving to Arduino Uno
 
 After considering the available options, we decided to replace the ESP32-S3 with an **Arduino Uno**.
+<img width="780" height="571" alt="image" src="https://github.com/user-attachments/assets/e156726e-c153-436b-a06b-38b1591a3fd7" />
+
+<img width="1265" height="637" alt="image" src="https://github.com/user-attachments/assets/f88efc22-1a6c-4351-afd2-f3f24ecd5091" />
 
 However, this was not simply a controller replacement. The change required us to modify the **wiring, code, and communication system** to suit the new controller.
 
@@ -50,12 +53,9 @@ The next stage would focus on:
 The main objective was now to **stabilize the new Arduino-based system and continue towards autonomous navigation**.
 
 
-<img width="780" height="571" alt="image" src="https://github.com/user-attachments/assets/e156726e-c153-436b-a06b-38b1591a3fd7" />
-
-<img width="1265" height="637" alt="image" src="https://github.com/user-attachments/assets/f88efc22-1a6c-4351-afd2-f3f24ecd5091" />
 
 
-## Links
+
 
 - Photos
   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/b9a1421d-0649-4b42-be84-4d5a7e79cfa1" />
