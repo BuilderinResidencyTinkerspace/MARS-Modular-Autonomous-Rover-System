@@ -2,7 +2,6 @@
 
 After spending the previous weeks developing the rover's mechanical structure and transferring the temporary wiring to a perfboard, Week 8 focused on **testing the permanent electrical system and integrating the complete rover**.
 
-The next challenge was no longer simply getting individual components to work. We needed to make sure that all the components could operate together reliably inside the 3D-printed structure before moving towards mapping and autonomous navigation.
 
 ## Finalizing the Electrical System
 
