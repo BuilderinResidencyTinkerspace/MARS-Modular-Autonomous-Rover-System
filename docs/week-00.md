@@ -156,30 +156,6 @@ The initial architecture was also kept flexible so that hardware choices could b
 ---
 
 
-
-## What Made This Challenging
-
-By the end of Week 0, the project had moved far beyond the original idea of simply building a rover.
-
-The challenge was now to bring together **mechanical construction, motor control, power management, sensing, embedded programming, autonomous movement, and modular hardware** into one reliable system.
-
-I started with a simple question:
-
-> **“How can I build a rover?”**
-
-But while exploring possible applications, that question changed into something more interesting:
-
-> **“How can one rover be adapted to perform different real-world tasks?”**
-
-That shift in perspective led to the concept of **MARS — Modular Autonomous Rover System**.
-
-The next step was to move from the concept and architecture to the physical development of the rover base.
-
- 
-
-
-
-
 ##Links
 
 - https://gamma.app/docs/Modular-Autonomous-Rover-System-r9c271r7w8i100q
