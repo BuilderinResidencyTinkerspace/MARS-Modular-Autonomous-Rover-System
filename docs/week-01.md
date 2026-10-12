@@ -86,9 +86,6 @@ The solution was therefore useful for getting the prototype running, but it was 
 ## The First Physical Version of MARS
 
 By the end of the week, we had completed the first physical foundation of the rover.
-
-It was still a very early prototype, but the transition was important. MARS had moved from a concept and system architecture into something that could actually be assembled and tested.
-
 The 30 × 30 cm foam-board base provided the platform for the next stage, while the major electronic and mechanical components had been acquired.
 
 
@@ -96,17 +93,6 @@ The 30 × 30 cm foam-board base provided the platform for the next stage, while 
 
 ---
 
-## What We Learned This Week
-
-The main lesson from this stage was that moving from a design concept to a physical prototype immediately introduces constraints that are difficult to identify on paper.
-
-Component availability, mounting space, wiring, battery connections, and physical dimensions all started influencing the design.
-
-The battery-holder issue was a small problem, but it demonstrated an important part of hardware development: **the planned design sometimes has to adapt to the components and resources that are actually available.**
-
-For now, the temporary battery connection allowed us to continue building. The next challenge was to bring the individual components together and make the rover move.
-
----
 
 ## Next Week: Making It Move
 
@@ -114,18 +100,10 @@ With the basic platform and components ready, the next step was to begin assembl
 
 We planned to mount the **DC motors and tyres**, install the **motor driver and ESP32-S3**, and begin connecting the power system to the rover.
 
-The first major milestone would be simple:
 
 > **Make MARS move forward and backward.**
 
-Once basic motor control was working, we could begin building towards turning, sensor integration, and eventually autonomous movement.
-
-The rover had a chassis.
-
-It had motors.
-
-It had a controller.
-
+Once basic motor control was working, we could begin building towards turning, sensor integration, and eventually autonomous movement
 Now we needed to make all of them work together.
 
   <img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/3b9a8554-cf92-4dcc-9b60-0e179a760614" />
