@@ -9,6 +9,8 @@ We integrated the three ultrasonic sensors with the Arduino Uno and tested the r
 When an obstacle was detected, the rover stopped and remained stationary until the obstacle moved away. It could then continue its movement.
 
 To improve the detection coverage, the three ultrasonic sensors were arranged at the front in a curved configuration. The left and right sensors were positioned at approximately **+25° and -25°**, with the third sensor at the centre.
+
+
 <img width="330" height="462" alt="image" src="https://github.com/user-attachments/assets/71e1ac83-8d89-4def-9ba5-8ee2fa37a069" />
 
 ## Point-to-Point Navigation
